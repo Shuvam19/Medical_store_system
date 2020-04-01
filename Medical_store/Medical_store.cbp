@@ -31,9 +31,15 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="add_stock.h" />
+		<Unit filename="data.h" />
+		<Unit filename="data_check.h" />
+		<Unit filename="display_data.h" />
+		<Unit filename="gotoxy.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="update_stock.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

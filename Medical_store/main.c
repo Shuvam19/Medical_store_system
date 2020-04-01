@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include "gotoxy.h"
 #include "data.h"
-#include "update_stock.h"
+#include "data_check.h"
+#include "add_stock.h"
+#include "display_data.h"
 
 int main()
 {
@@ -34,9 +36,9 @@ int main()
             {
             case 1: get_data();
             break;
-            case 2: //show_stock();
+            case 2: show_stock();
             break;
-            case 3: //show_stock_d_m();
+            case 3: show_stock_d_m();
             break;
             case 4: //sell_medicine();
             break;
