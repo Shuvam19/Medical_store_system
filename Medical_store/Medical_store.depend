@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585766500 source:c:\projects\c c++\medical_store\medical_store\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+	"data.h"
+	"update_stock.h"
+
+1585765547 c:\projects\c c++\medical_store\medical_store\gotoxy.h
+	<windows.h>
+
+1585766596 c:\projects\c c++\medical_store\medical_store\data.h
+
+1585766532 c:\projects\c c++\medical_store\medical_store\update_stock.h
+
