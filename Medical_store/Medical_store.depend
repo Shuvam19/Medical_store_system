@@ -21,3 +21,32 @@
 
 1585768310 c:\projects\c c++\medical_store\medical_store\display_data.h
 
+1585805507 source:c:\projects\c c++\medical_store_system\medical_store\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+	"data.h"
+	"data_check.h"
+	"printing_format.h"
+	"add_stock.h"
+	"display_data.h"
+	"search_medicine.h"
+	"record_sold_medicine.h"
+
+1585765547 c:\projects\c c++\medical_store_system\medical_store\gotoxy.h
+	<windows.h>
+
+1585766596 c:\projects\c c++\medical_store_system\medical_store\data.h
+
+1585805694 c:\projects\c c++\medical_store_system\medical_store\data_check.h
+
+1585767023 c:\projects\c c++\medical_store_system\medical_store\add_stock.h
+
+1585805865 c:\projects\c c++\medical_store_system\medical_store\display_data.h
+
+1585804633 c:\projects\c c++\medical_store_system\medical_store\printing_format.h
+
+1585804421 c:\projects\c c++\medical_store_system\medical_store\record_sold_medicine.h
+
+1585805192 c:\projects\c c++\medical_store_system\medical_store\search_medicine.h
+

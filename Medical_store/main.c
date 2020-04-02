@@ -3,8 +3,11 @@
 #include "gotoxy.h"
 #include "data.h"
 #include "data_check.h"
+#include "printing_format.h"
 #include "add_stock.h"
 #include "display_data.h"
+#include "search_medicine.h"
+#include "record_sold_medicine.h"
 
 int main()
 {
@@ -40,13 +43,13 @@ int main()
             break;
             case 3: show_stock_d_m();
             break;
-            case 4: //sell_medicine();
+            case 4: sell_medicine();
             break;
-            case 5: //search_medicine_stock();
+            case 5: search_medicine_stock();
             break;
-            case 6: //show_stock_record();
+            case 6: show_sold_stock();
             break;
-            case 7: //show_expiring();
+            case 7: show_expiring();
             break;
             }
         }
